@@ -1,0 +1,4 @@
+# 与 ServerProperties绑定，用于基础信息绑定
+dreamcenter:
+  botServerAddr: http://127.0.0.1:5700 # cqhttp访问地址
+  serverAddr: http://127.0.0.1:5701 # 本服务器访问地址
